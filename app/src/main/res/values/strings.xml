@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reddit News</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="internet_connection">no internet connection</string>
+    <string name="x_api_key_error">You do not have access to it .</string>
+    <string name="auth_error">Your permission session on this app has expired, log in again .</string>
+    <string name="known_error">Unknown error we will try to fix as soon as possible .</string>
+    <string name="not_found">not found</string>
+    <string name="copied">copied</string>
+
+</resources>
